@@ -14,7 +14,6 @@ It is the collection of all the UX design that I made using figma, You can use t
 
 ** All Figma designs in one frame **
 
-<a href="./00-Web/00.png"><img src="./00-Web/00.png"></a>
 
 ---
 
